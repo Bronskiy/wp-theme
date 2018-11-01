@@ -1,0 +1,535 @@
+27.04.2017 08:25:50 Load data from the file http://booklovers.ancorathemes.com/demo/default/posts.txt successful
+18.08.2017 08:10:08 Load data from the file http://booklovers.ancorathemes.com/demo/default/posts.txt successful
+18.08.2017 08:10:15 Export 299 rows from table 'posts'. Used query: SELECT t.* FROM wp_posts AS t WHERE t.post_type NOT IN ('revision') ORDER BY t.ID ASC
+18.08.2017 08:10:15 Export 6021 rows from table 'postmeta'. Used query: SELECT t.* FROM wp_postmeta AS t ORDER BY t.meta_id ASC
+18.08.2017 08:10:15 Export 46 rows from table 'comments'. Used query: SELECT t.* FROM wp_comments AS t
+18.08.2017 08:10:15 Export 6 rows from table 'commentmeta'. Used query: SELECT t.* FROM wp_commentmeta AS t
+18.08.2017 08:10:15 Export 62 rows from table 'terms'. Used query: SELECT t.* FROM wp_terms AS t ORDER BY t.term_id ASC
+18.08.2017 08:10:15 Export 62 rows from table 'term_taxonomy'. Used query: SELECT t.* FROM wp_term_taxonomy AS t
+18.08.2017 08:10:15 Export 279 rows from table 'term_relationships'. Used query: SELECT t.* FROM wp_term_relationships AS t
+18.08.2017 08:10:15 Export 155 rows from table 'users'. Used query: SELECT t.* FROM wp_users AS t
+18.08.2017 08:10:15 Export 2300 rows from table 'usermeta'. Used query: SELECT t.* FROM wp_usermeta AS t
+18.08.2017 08:10:15 Export 0 rows from table 'woocommerce_attribute_taxonomies'. Used query: SELECT t.* FROM wp_woocommerce_attribute_taxonomies AS t
+18.08.2017 08:10:15 Export 0 rows from table 'woocommerce_downloadable_product_permissions'. Used query: SELECT t.* FROM wp_woocommerce_downloadable_product_permissions AS t
+18.08.2017 08:10:15 Export 414 rows from table 'woocommerce_order_itemmeta'. Used query: SELECT t.* FROM wp_woocommerce_order_itemmeta AS t
+18.08.2017 08:10:15 Export 46 rows from table 'woocommerce_order_items'. Used query: SELECT t.* FROM wp_woocommerce_order_items AS t
+18.08.2017 08:10:15 Load data from the file http://booklovers.ancorathemes.com/demo/default/posts.txt successful
+22.08.2017 08:44:51 Load data from the file http://booklovers.ancorathemes.com/demo/default/posts.txt successful
+22.08.2017 08:44:53 Export 299 rows from table 'posts'. Used query: SELECT t.* FROM wp_posts AS t WHERE t.post_type NOT IN ('revision') ORDER BY t.ID ASC
+22.08.2017 08:44:53 Export 6031 rows from table 'postmeta'. Used query: SELECT t.* FROM wp_postmeta AS t ORDER BY t.meta_id ASC
+22.08.2017 08:44:53 Export 46 rows from table 'comments'. Used query: SELECT t.* FROM wp_comments AS t
+22.08.2017 08:44:53 Export 6 rows from table 'commentmeta'. Used query: SELECT t.* FROM wp_commentmeta AS t
+22.08.2017 08:44:53 Export 62 rows from table 'terms'. Used query: SELECT t.* FROM wp_terms AS t ORDER BY t.term_id ASC
+22.08.2017 08:44:53 Export 62 rows from table 'term_taxonomy'. Used query: SELECT t.* FROM wp_term_taxonomy AS t
+22.08.2017 08:44:53 Export 279 rows from table 'term_relationships'. Used query: SELECT t.* FROM wp_term_relationships AS t
+22.08.2017 08:44:53 Export 156 rows from table 'users'. Used query: SELECT t.* FROM wp_users AS t
+22.08.2017 08:44:53 Export 2313 rows from table 'usermeta'. Used query: SELECT t.* FROM wp_usermeta AS t
+22.08.2017 08:44:53 Export 0 rows from table 'woocommerce_attribute_taxonomies'. Used query: SELECT t.* FROM wp_woocommerce_attribute_taxonomies AS t
+22.08.2017 08:44:53 Export 0 rows from table 'woocommerce_downloadable_product_permissions'. Used query: SELECT t.* FROM wp_woocommerce_downloadable_product_permissions AS t
+22.08.2017 08:44:53 Export 414 rows from table 'woocommerce_order_itemmeta'. Used query: SELECT t.* FROM wp_woocommerce_order_itemmeta AS t
+22.08.2017 08:44:53 Export 46 rows from table 'woocommerce_order_items'. Used query: SELECT t.* FROM wp_woocommerce_order_items AS t
+22.08.2017 08:44:54 Load data from the file http://booklovers.ancorathemes.com/demo/default/posts.txt successful
+23.10.2017 13:01:31 Dispatch action: import_tpl
+23.10.2017 13:01:31 Import Theme Options
+23.10.2017 13:01:31 Load data from the file http://booklovers.ancorathemes.com/demo/default/templates_options.txt successful
+23.10.2017 13:01:31 AJAX handler finished - send results to client: {"action":"import_tpl","error":"","start_from_id":0,"result":100}
+23.10.2017 13:01:32 Dispatch action: import_widgets
+23.10.2017 13:01:32 Import Widgets
+23.10.2017 13:01:32 Load data from the file http://booklovers.ancorathemes.com/demo/default/widgets.txt successful
+23.10.2017 13:01:32 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":100}
+23.10.2017 13:01:33 Dispatch action: import_essgrids
+23.10.2017 13:01:33 Load data from the file http://booklovers.ancorathemes.com/demo/default/ess_grid.json successful
+23.10.2017 13:01:34 Essential Grid import complete
+23.10.2017 13:01:34 AJAX handler finished - send results to client: {"action":"import_essgrids","error":"","start_from_id":0,"result":100}
+23.10.2017 13:01:35 Dispatch action: import_revslider
+23.10.2017 13:01:35 Import Revolution sliders
+23.10.2017 13:01:35 Load data from the file http://booklovers.ancorathemes.com/demo/default/revslider.txt successful
+23.10.2017 13:01:35 Download file http://booklovers.ancorathemes.com/demo/default/revslider/sliderhome1.zip successful
+23.10.2017 13:01:39 Slider "sliderhome1.zip" imported
+23.10.2017 13:01:39 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revslider\/sliderhome1.zip","result":33}
+23.10.2017 13:01:39 Dispatch action: import_revslider
+23.10.2017 13:01:39 Import Revolution sliders
+23.10.2017 13:01:39 Download file http://booklovers.ancorathemes.com/demo/default/revslider/sliderhome2.zip successful
+23.10.2017 13:01:42 Slider "sliderhome2.zip" imported
+23.10.2017 13:01:42 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revslider\/sliderhome2.zip","result":67}
+23.10.2017 13:01:43 Dispatch action: import_revslider
+23.10.2017 13:01:43 Import Revolution sliders
+23.10.2017 13:01:43 Download file http://booklovers.ancorathemes.com/demo/default/revslider/sliderhome4.zip successful
+23.10.2017 13:01:46 Slider "sliderhome4.zip" imported
+23.10.2017 13:01:46 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","start_from_id":"revslider\/sliderhome4.zip","result":100}
+23.10.2017 13:01:47 Dispatch action: import_woocommerce
+23.10.2017 13:01:47 Import dump file: "woocommerce.txt"
+23.10.2017 13:01:47 Load data from the file http://booklovers.ancorathemes.com/demo/default/woocommerce.txt successful
+23.10.2017 13:01:47 Process table "woocommerce_attribute_taxonomies"
+23.10.2017 13:01:47 Imported 100%. Elapsed time 0 sec. of 108 sec.
+23.10.2017 13:01:47 Process table "woocommerce_downloadable_product_permissions"
+23.10.2017 13:01:47 Imported 100%. Elapsed time 0 sec. of 108 sec.
+23.10.2017 13:01:47 Process table "woocommerce_order_itemmeta"
+23.10.2017 13:01:47 Record (ID=1) is imported. Progress: 0%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=2) is imported. Progress: 0%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=3) is imported. Progress: 1%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=4) is imported. Progress: 1%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=5) is imported. Progress: 1%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=6) is imported. Progress: 1%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=7) is imported. Progress: 2%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=8) is imported. Progress: 2%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=9) is imported. Progress: 2%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=10) is imported. Progress: 2%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=11) is imported. Progress: 3%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=12) is imported. Progress: 3%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=13) is imported. Progress: 3%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=14) is imported. Progress: 3%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=15) is imported. Progress: 4%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=16) is imported. Progress: 4%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=17) is imported. Progress: 4%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=18) is imported. Progress: 4%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=19) is imported. Progress: 5%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=20) is imported. Progress: 5%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=21) is imported. Progress: 5%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=22) is imported. Progress: 5%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=23) is imported. Progress: 6%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=24) is imported. Progress: 6%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=25) is imported. Progress: 6%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=26) is imported. Progress: 6%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=27) is imported. Progress: 7%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=28) is imported. Progress: 7%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=29) is imported. Progress: 7%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=30) is imported. Progress: 7%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=31) is imported. Progress: 7%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=32) is imported. Progress: 8%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=33) is imported. Progress: 8%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=34) is imported. Progress: 8%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=35) is imported. Progress: 8%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=36) is imported. Progress: 9%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=37) is imported. Progress: 9%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=38) is imported. Progress: 9%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=39) is imported. Progress: 9%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=40) is imported. Progress: 10%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=41) is imported. Progress: 10%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=42) is imported. Progress: 10%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=43) is imported. Progress: 10%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=44) is imported. Progress: 11%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=45) is imported. Progress: 11%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=46) is imported. Progress: 11%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=47) is imported. Progress: 11%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=48) is imported. Progress: 12%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=49) is imported. Progress: 12%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=50) is imported. Progress: 12%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=51) is imported. Progress: 12%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=52) is imported. Progress: 13%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=53) is imported. Progress: 13%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=54) is imported. Progress: 13%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=55) is imported. Progress: 13%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=56) is imported. Progress: 14%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=57) is imported. Progress: 14%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=58) is imported. Progress: 14%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=59) is imported. Progress: 14%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=60) is imported. Progress: 14%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=61) is imported. Progress: 15%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=62) is imported. Progress: 15%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=63) is imported. Progress: 15%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=64) is imported. Progress: 15%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=65) is imported. Progress: 16%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=66) is imported. Progress: 16%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=67) is imported. Progress: 16%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=68) is imported. Progress: 16%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=69) is imported. Progress: 17%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=70) is imported. Progress: 17%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=71) is imported. Progress: 17%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=72) is imported. Progress: 17%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=73) is imported. Progress: 18%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=74) is imported. Progress: 18%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=75) is imported. Progress: 18%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=76) is imported. Progress: 18%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=77) is imported. Progress: 19%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=78) is imported. Progress: 19%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=79) is imported. Progress: 19%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=80) is imported. Progress: 19%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=81) is imported. Progress: 20%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=82) is imported. Progress: 20%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=83) is imported. Progress: 20%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=84) is imported. Progress: 20%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=85) is imported. Progress: 21%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=86) is imported. Progress: 21%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=87) is imported. Progress: 21%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=88) is imported. Progress: 21%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=89) is imported. Progress: 21%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=90) is imported. Progress: 22%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=91) is imported. Progress: 22%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=92) is imported. Progress: 22%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=93) is imported. Progress: 22%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=94) is imported. Progress: 23%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=95) is imported. Progress: 23%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=96) is imported. Progress: 23%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=97) is imported. Progress: 23%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=98) is imported. Progress: 24%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=99) is imported. Progress: 24%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=100) is imported. Progress: 24%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=101) is imported. Progress: 24%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=102) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=103) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=104) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=105) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=106) is imported. Progress: 26%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=107) is imported. Progress: 26%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=108) is imported. Progress: 26%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=109) is imported. Progress: 26%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=110) is imported. Progress: 27%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=111) is imported. Progress: 27%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=112) is imported. Progress: 27%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=113) is imported. Progress: 27%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=114) is imported. Progress: 28%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=115) is imported. Progress: 28%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=116) is imported. Progress: 28%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=117) is imported. Progress: 28%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=118) is imported. Progress: 29%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=119) is imported. Progress: 29%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=120) is imported. Progress: 29%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=121) is imported. Progress: 29%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=122) is imported. Progress: 29%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=123) is imported. Progress: 30%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=124) is imported. Progress: 30%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=125) is imported. Progress: 30%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=126) is imported. Progress: 30%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=127) is imported. Progress: 31%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=128) is imported. Progress: 31%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=129) is imported. Progress: 31%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=130) is imported. Progress: 31%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=131) is imported. Progress: 32%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=132) is imported. Progress: 32%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=133) is imported. Progress: 32%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=134) is imported. Progress: 32%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=135) is imported. Progress: 33%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=136) is imported. Progress: 33%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=137) is imported. Progress: 33%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=138) is imported. Progress: 33%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=139) is imported. Progress: 34%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=140) is imported. Progress: 34%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=141) is imported. Progress: 34%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=142) is imported. Progress: 34%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=143) is imported. Progress: 35%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=144) is imported. Progress: 35%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=145) is imported. Progress: 35%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=146) is imported. Progress: 35%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=147) is imported. Progress: 36%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=148) is imported. Progress: 36%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=149) is imported. Progress: 36%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=150) is imported. Progress: 36%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=151) is imported. Progress: 36%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=152) is imported. Progress: 37%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=153) is imported. Progress: 37%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=154) is imported. Progress: 37%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=155) is imported. Progress: 37%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=156) is imported. Progress: 38%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=157) is imported. Progress: 38%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=158) is imported. Progress: 38%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=159) is imported. Progress: 38%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=160) is imported. Progress: 39%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=161) is imported. Progress: 39%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=162) is imported. Progress: 39%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=163) is imported. Progress: 39%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=164) is imported. Progress: 40%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=165) is imported. Progress: 40%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=166) is imported. Progress: 40%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=167) is imported. Progress: 40%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=168) is imported. Progress: 41%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=169) is imported. Progress: 41%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=170) is imported. Progress: 41%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=171) is imported. Progress: 41%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=172) is imported. Progress: 42%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=173) is imported. Progress: 42%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=174) is imported. Progress: 42%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=175) is imported. Progress: 42%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=176) is imported. Progress: 43%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=177) is imported. Progress: 43%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=178) is imported. Progress: 43%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=179) is imported. Progress: 43%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=180) is imported. Progress: 43%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=181) is imported. Progress: 44%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=182) is imported. Progress: 44%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=183) is imported. Progress: 44%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=184) is imported. Progress: 44%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=185) is imported. Progress: 45%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=186) is imported. Progress: 45%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=187) is imported. Progress: 45%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=188) is imported. Progress: 45%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=189) is imported. Progress: 46%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=190) is imported. Progress: 46%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=191) is imported. Progress: 46%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=192) is imported. Progress: 46%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=193) is imported. Progress: 47%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=194) is imported. Progress: 47%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=195) is imported. Progress: 47%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=196) is imported. Progress: 47%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=197) is imported. Progress: 48%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=198) is imported. Progress: 48%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=199) is imported. Progress: 48%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=200) is imported. Progress: 48%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=201) is imported. Progress: 49%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=202) is imported. Progress: 49%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=203) is imported. Progress: 49%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=204) is imported. Progress: 49%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=205) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=206) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=207) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=217) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=218) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=219) is imported. Progress: 51%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=220) is imported. Progress: 51%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=221) is imported. Progress: 51%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=222) is imported. Progress: 51%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=223) is imported. Progress: 52%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=224) is imported. Progress: 52%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=225) is imported. Progress: 52%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=235) is imported. Progress: 52%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=236) is imported. Progress: 53%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=237) is imported. Progress: 53%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=238) is imported. Progress: 53%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=239) is imported. Progress: 53%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=240) is imported. Progress: 54%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=241) is imported. Progress: 54%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=242) is imported. Progress: 54%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=243) is imported. Progress: 54%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=244) is imported. Progress: 55%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=245) is imported. Progress: 55%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=246) is imported. Progress: 55%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=247) is imported. Progress: 55%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=248) is imported. Progress: 56%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=249) is imported. Progress: 56%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=250) is imported. Progress: 56%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=251) is imported. Progress: 56%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=252) is imported. Progress: 57%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=253) is imported. Progress: 57%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=254) is imported. Progress: 57%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=255) is imported. Progress: 57%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=256) is imported. Progress: 57%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=257) is imported. Progress: 58%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=258) is imported. Progress: 58%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=259) is imported. Progress: 58%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=260) is imported. Progress: 58%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=261) is imported. Progress: 59%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=262) is imported. Progress: 59%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=263) is imported. Progress: 59%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=264) is imported. Progress: 59%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=265) is imported. Progress: 60%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=266) is imported. Progress: 60%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=267) is imported. Progress: 60%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=268) is imported. Progress: 60%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=269) is imported. Progress: 61%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=270) is imported. Progress: 61%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=271) is imported. Progress: 61%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=272) is imported. Progress: 61%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=273) is imported. Progress: 62%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=274) is imported. Progress: 62%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=275) is imported. Progress: 62%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=276) is imported. Progress: 62%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=277) is imported. Progress: 63%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=278) is imported. Progress: 63%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=279) is imported. Progress: 63%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=280) is imported. Progress: 63%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=281) is imported. Progress: 64%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=282) is imported. Progress: 64%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=283) is imported. Progress: 64%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=284) is imported. Progress: 64%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=285) is imported. Progress: 64%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=286) is imported. Progress: 65%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=287) is imported. Progress: 65%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=288) is imported. Progress: 65%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=289) is imported. Progress: 65%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=290) is imported. Progress: 66%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=291) is imported. Progress: 66%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=292) is imported. Progress: 66%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=293) is imported. Progress: 66%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=294) is imported. Progress: 67%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=295) is imported. Progress: 67%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=296) is imported. Progress: 67%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=297) is imported. Progress: 67%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=298) is imported. Progress: 68%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=299) is imported. Progress: 68%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=300) is imported. Progress: 68%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=301) is imported. Progress: 68%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=302) is imported. Progress: 69%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=303) is imported. Progress: 69%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=304) is imported. Progress: 69%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=305) is imported. Progress: 69%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=306) is imported. Progress: 70%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=307) is imported. Progress: 70%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=308) is imported. Progress: 70%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=309) is imported. Progress: 70%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=310) is imported. Progress: 71%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=311) is imported. Progress: 71%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=312) is imported. Progress: 71%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=313) is imported. Progress: 71%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=314) is imported. Progress: 71%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=315) is imported. Progress: 72%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=316) is imported. Progress: 72%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=317) is imported. Progress: 72%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=318) is imported. Progress: 72%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=319) is imported. Progress: 73%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=320) is imported. Progress: 73%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=321) is imported. Progress: 73%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=322) is imported. Progress: 73%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=323) is imported. Progress: 74%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=324) is imported. Progress: 74%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=325) is imported. Progress: 74%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=326) is imported. Progress: 74%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=327) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=328) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=329) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=330) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=331) is imported. Progress: 76%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=332) is imported. Progress: 76%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=333) is imported. Progress: 76%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=334) is imported. Progress: 76%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=335) is imported. Progress: 77%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=336) is imported. Progress: 77%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=337) is imported. Progress: 77%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=338) is imported. Progress: 77%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=339) is imported. Progress: 78%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=340) is imported. Progress: 78%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=341) is imported. Progress: 78%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=342) is imported. Progress: 78%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=343) is imported. Progress: 79%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=344) is imported. Progress: 79%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=345) is imported. Progress: 79%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=346) is imported. Progress: 79%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=347) is imported. Progress: 79%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=348) is imported. Progress: 80%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=349) is imported. Progress: 80%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=350) is imported. Progress: 80%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=351) is imported. Progress: 80%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=352) is imported. Progress: 81%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=353) is imported. Progress: 81%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=354) is imported. Progress: 81%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=355) is imported. Progress: 81%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=356) is imported. Progress: 82%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=357) is imported. Progress: 82%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=358) is imported. Progress: 82%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=359) is imported. Progress: 82%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=360) is imported. Progress: 83%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=361) is imported. Progress: 83%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=362) is imported. Progress: 83%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=363) is imported. Progress: 83%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=364) is imported. Progress: 84%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=365) is imported. Progress: 84%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=366) is imported. Progress: 84%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=367) is imported. Progress: 84%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=368) is imported. Progress: 85%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=369) is imported. Progress: 85%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=370) is imported. Progress: 85%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=371) is imported. Progress: 85%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=372) is imported. Progress: 86%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=373) is imported. Progress: 86%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=374) is imported. Progress: 86%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=375) is imported. Progress: 86%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=376) is imported. Progress: 86%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=377) is imported. Progress: 87%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=378) is imported. Progress: 87%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=379) is imported. Progress: 87%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:47 Record (ID=380) is imported. Progress: 87%. Time: 0 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=381) is imported. Progress: 88%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=382) is imported. Progress: 88%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=383) is imported. Progress: 88%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=384) is imported. Progress: 88%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=385) is imported. Progress: 89%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=386) is imported. Progress: 89%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=387) is imported. Progress: 89%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=388) is imported. Progress: 89%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=389) is imported. Progress: 90%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=390) is imported. Progress: 90%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=391) is imported. Progress: 90%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=392) is imported. Progress: 90%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=393) is imported. Progress: 91%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=394) is imported. Progress: 91%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=395) is imported. Progress: 91%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=396) is imported. Progress: 91%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=397) is imported. Progress: 92%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=398) is imported. Progress: 92%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=399) is imported. Progress: 92%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=400) is imported. Progress: 92%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=401) is imported. Progress: 93%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=402) is imported. Progress: 93%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=403) is imported. Progress: 93%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=404) is imported. Progress: 93%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=405) is imported. Progress: 93%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=406) is imported. Progress: 94%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=407) is imported. Progress: 94%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=408) is imported. Progress: 94%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=409) is imported. Progress: 94%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=410) is imported. Progress: 95%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=411) is imported. Progress: 95%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=412) is imported. Progress: 95%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=413) is imported. Progress: 95%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=414) is imported. Progress: 96%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=415) is imported. Progress: 96%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=416) is imported. Progress: 96%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=417) is imported. Progress: 96%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=418) is imported. Progress: 97%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=419) is imported. Progress: 97%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=420) is imported. Progress: 97%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=421) is imported. Progress: 97%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=422) is imported. Progress: 98%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=423) is imported. Progress: 98%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=424) is imported. Progress: 98%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=425) is imported. Progress: 98%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=426) is imported. Progress: 99%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=427) is imported. Progress: 99%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=428) is imported. Progress: 99%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=429) is imported. Progress: 99%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=430) is imported. Progress: 100%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=431) is imported. Progress: 100%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=432) is imported. Progress: 100%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Imported 100%. Elapsed time 1 sec. of 108 sec.
+23.10.2017 13:01:48 Process table "woocommerce_order_items"
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 2%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 4%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 7%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 9%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 11%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 13%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 15%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 17%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 20%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 22%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 24%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 26%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 28%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 30%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 33%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 35%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 37%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 39%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 41%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 43%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 46%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 48%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 50%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 52%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 54%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 57%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 59%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 61%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 63%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 65%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 67%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 70%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 72%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 74%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 76%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 78%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 80%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 83%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 85%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 87%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 89%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 91%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 93%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 96%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 98%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Record (ID=) is imported. Progress: 100%. Time: 1 sec. from 108 sec.
+23.10.2017 13:01:48 Imported 100%. Elapsed time 1 sec. of 108 sec.
+23.10.2017 13:01:48 Process table "woocommerce_termmeta"
+23.10.2017 13:01:48 Imported 100%. Elapsed time 1 sec. of 108 sec.
+23.10.2017 13:01:48 AJAX handler finished - send results to client: {"action":"import_woocommerce","error":"","start_from_id":0,"result":100}
+23.10.2017 13:01:49 Dispatch action: import_end
+23.10.2017 13:01:49 AJAX handler finished - send results to client: {"action":"import_end","error":"","start_from_id":0,"result":100}
